@@ -13,7 +13,6 @@ import OutdoorActivities from "./pages/OutdoorActivities";
 import Activities from "./pages/Activities";
 import { Testimonials } from "./components/Testimonials";
 
-// Reusable homepage component
 function Home() {
   return (
     <>
